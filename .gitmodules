@@ -1,0 +1,9 @@
+[submodule "themes/Lynx"]
+	path = themes/Lynx
+	url = https://github.com/jpanther/lynx.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/lynx"]
+	path = themes/lynx
+	url = https://github.com/jpanther/lynx.git
