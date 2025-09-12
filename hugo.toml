@@ -19,7 +19,7 @@ copyright = "Ad astra per alia porci"
         { email = "mailto:christiankruep@me.com" },
         { linkedin = "https://www.linkedin.com/in/christiankruep/" },
         { github = "https://github.com/christiankruep" },
-        { github = { href = "https://github.com/christiankruep/PersonalWebsite", text = "Readme?" } },
+        { github = { href = "https://github.com/christiankruep/PersonalWebsite/blob/main/README.md", text = "Readme?" } },
         { link = { href = "https://www.peakbagger.com/climber/climber.aspx?cid=44836", text = "Peak Bagger" } },
         { link = {href = "https://www.kpig.com/", text = "Pure Pork" } },
         { flickr = "https://www.flickr.com/people/191698010@N03/" }
