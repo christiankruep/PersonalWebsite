@@ -24,7 +24,7 @@ enableEmoji = true
         { linkedin = "https://www.linkedin.com/in/christiankruep/" },
         { github = "https://github.com/christiankruep" },
         { github = { href = "https://github.com/christiankruep/PersonalWebsite/blob/main/README.md", text = "Website Readme" } },
-        { link = { href = "https://www.peakbagger.com/climber/climber.aspx?cid=44836", text = "Peak Bagger" } },
+        { peakbagger = { href= "https://www.peakbagger.com/climber/climber.aspx?cid=44836", text = "Peakbagger" } },
         { flickr = "https://www.flickr.com/people/191698010@N03/" }
     ]
    
