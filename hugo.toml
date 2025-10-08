@@ -6,17 +6,18 @@ theme = 'lynx'
 
 enableEmoji = true
 
+title = 'Solvitur Ambulando'
+copyright = 'Ad astra per alia porci'
+
 [params]
   env = "production"
   custom_css = ["assets/css/custom.css"]
-  title = "Solvitur Ambulando"
-  copyright = "Ad astra per alia porci"
 
 
 [params.author]
     name = "Christian Kruep"
     headline = "The Dude in the Arena"
-    image = "images/headshot_cropped.png"
+    image = "images/headshot.jpeg"
     
     links = [
         { aboutme = { href = "about/", text = "About me" } },
@@ -24,8 +25,9 @@ enableEmoji = true
         { linkedin = "https://www.linkedin.com/in/christiankruep/" },
         { github = "https://github.com/christiankruep" },
         { github = { href = "https://github.com/christiankruep/PersonalWebsite/blob/main/README.md", text = "Website Readme" } },
+        { flickr = "https://www.flickr.com/people/191698010@N03/" },
         { peakbagger = { href= "https://www.peakbagger.com/climber/climber.aspx?cid=44836", text = "Peakbagger" } },
-        { flickr = "https://www.flickr.com/people/191698010@N03/" }
+        { ramblings = { href = "ramblings/", text = "Ramblings" } }
     ]
    
 [PermaLinks]
