@@ -12,7 +12,7 @@ copyright = 'Ad astra per alia porci'
 [params]
   env = "production"
   custom_css = ["assets/css/custom.css"]
-
+  favicon = "/static/favicon.ico" 
 
 [params.author]
     name = "Christian Kruep"
@@ -27,7 +27,6 @@ copyright = 'Ad astra per alia porci'
         { github = { href = "https://github.com/christiankruep/PersonalWebsite/blob/main/README.md", text = "Website Readme" } },
         { flickr = "https://www.flickr.com/people/191698010@N03/" },
         { peakbagger = { href= "https://www.peakbagger.com/climber/climber.aspx?cid=44836", text = "Peakbagger" } },
-        { ramblings = { href = "ramblings/", text = "Ramblings" } }
     ]
    
 [PermaLinks]
